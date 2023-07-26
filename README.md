@@ -1,6 +1,6 @@
 <h1 align="center" id="title">URL Shorterner</h1>
 
-<p id="description">A fastify api to shortener yours urls</p>
+<p id="description">A REST-API for shortener urls</p>
 
 <img src="https://img.shields.io/badge/Node_JS-v16.16.0-green" alt="shields"><img src="https://img.shields.io/badge/NPM-v9.6.3-red" alt="shields"><img src="https://img.shields.io/badge/Yarn-v1.22.19-blue" alt="shields">
 
